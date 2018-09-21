@@ -1,1 +1,5 @@
-# scripts
+# Scripts
+
+A collection of scripts
+
+In progress : )
